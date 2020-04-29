@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "testnexjs": "fctestnexjs",
+    "default": "fctestnexjs"
+  }
+}

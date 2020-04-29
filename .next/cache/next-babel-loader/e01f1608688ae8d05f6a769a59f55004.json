@@ -1,0 +1,1 @@
+{"ast":null,"code":"import React from \"react\";\nvar __jsx = React.createElement;\nexport default function Fede() {\n  return __jsx(\"div\", null, __jsx(\"img\", {\n    alt: \"Puppy\",\n    src: \"https://cdn.glitch.com/a84f63e5-62cd-456b-89f4-c2adddc4e575%2Fpupper.jpeg?1552581003517\"\n  }));\n}","map":null,"metadata":{},"sourceType":"module"}

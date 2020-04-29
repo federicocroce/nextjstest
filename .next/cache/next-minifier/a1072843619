@@ -1,0 +1,1 @@
+{"code":"(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{Z8H2:function(n,t,c){\"use strict\";c.r(t),c.d(t,\"default\",(function(){return p}));var e=c(\"q1tI\"),f=c.n(e).a.createElement;function p(){return f(\"div\",null,\"fffffff\",f(\"img\",{alt:\"Puppy\",src:\"https://cdn.glitch.com/a84f63e5-62cd-456b-89f4-c2adddc4e575%2Fpupper.jpeg?1552581003517\"}))}}}]);"}

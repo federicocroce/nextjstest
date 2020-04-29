@@ -1,0 +1,1 @@
+{"code":"(window.webpackJsonp=window.webpackJsonp||[]).push([[15],{GaDq:function(n,e,t){\"use strict\";t.r(e),t.d(e,\"Hello\",(function(){return u}));var o=t(\"q1tI\"),r=t.n(o).a.createElement;function u(){return r(\"p\",null,\"Hello!\")}}}]);"}
